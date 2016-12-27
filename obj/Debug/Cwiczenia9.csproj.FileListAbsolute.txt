@@ -1,0 +1,6 @@
+C:\Users\bialy\Desktop\Nowy folder\Cwiczenia9\Cwiczenia9\bin\Debug\Cwiczenia9.exe.config
+C:\Users\bialy\Desktop\Nowy folder\Cwiczenia9\Cwiczenia9\bin\Debug\Cwiczenia9.exe
+C:\Users\bialy\Desktop\Nowy folder\Cwiczenia9\Cwiczenia9\bin\Debug\Cwiczenia9.pdb
+C:\Users\bialy\Desktop\Nowy folder\Cwiczenia9\Cwiczenia9\obj\Debug\Cwiczenia9.csprojResolveAssemblyReference.cache
+C:\Users\bialy\Desktop\Nowy folder\Cwiczenia9\Cwiczenia9\obj\Debug\Cwiczenia9.exe
+C:\Users\bialy\Desktop\Nowy folder\Cwiczenia9\Cwiczenia9\obj\Debug\Cwiczenia9.pdb
